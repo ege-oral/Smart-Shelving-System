@@ -5,8 +5,8 @@ The goal of this project is to make the shelves smarter. That way a smart shelf 
 </p>
 
 # Required Equipments For This Project
-* Arduino
-* Ultrasonik Sensor
+* Arduino.
+* Ultrasonik Sensor.
 * Weight sensor(5kg) with HX711 module.
 * Bipolar stepper motor NEMA 17 with L293D motor driver.
 * 12V adapter.
